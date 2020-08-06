@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4IcM88bJeOVgVjSghVo0ADZAEtTUrQBv4Bri9iO2h9+peYKXXhmo6kduK6co4b1SWNo4H0BXc93OzEmaUepn2A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Frede\\Desktop\\Projects\\git\\ChessApp\\ChessApp\\functionalityLibrary\\functionalityLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Frede\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Frede\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

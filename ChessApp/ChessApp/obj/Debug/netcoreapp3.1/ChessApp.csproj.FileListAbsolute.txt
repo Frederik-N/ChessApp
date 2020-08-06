@@ -1,0 +1,13 @@
+C:\Users\Frede\Desktop\Projects\git\ChessApp\ChessApp\ChessApp\bin\Debug\netcoreapp3.1\ChessApp.exe
+C:\Users\Frede\Desktop\Projects\git\ChessApp\ChessApp\ChessApp\bin\Debug\netcoreapp3.1\ChessApp.deps.json
+C:\Users\Frede\Desktop\Projects\git\ChessApp\ChessApp\ChessApp\bin\Debug\netcoreapp3.1\ChessApp.runtimeconfig.json
+C:\Users\Frede\Desktop\Projects\git\ChessApp\ChessApp\ChessApp\bin\Debug\netcoreapp3.1\ChessApp.runtimeconfig.dev.json
+C:\Users\Frede\Desktop\Projects\git\ChessApp\ChessApp\ChessApp\bin\Debug\netcoreapp3.1\ChessApp.dll
+C:\Users\Frede\Desktop\Projects\git\ChessApp\ChessApp\ChessApp\bin\Debug\netcoreapp3.1\ChessApp.pdb
+C:\Users\Frede\Desktop\Projects\git\ChessApp\ChessApp\ChessApp\obj\Debug\netcoreapp3.1\ChessApp.csprojAssemblyReference.cache
+C:\Users\Frede\Desktop\Projects\git\ChessApp\ChessApp\ChessApp\obj\Debug\netcoreapp3.1\ChessApp.AssemblyInfoInputs.cache
+C:\Users\Frede\Desktop\Projects\git\ChessApp\ChessApp\ChessApp\obj\Debug\netcoreapp3.1\ChessApp.AssemblyInfo.cs
+C:\Users\Frede\Desktop\Projects\git\ChessApp\ChessApp\ChessApp\obj\Debug\netcoreapp3.1\ChessApp.csproj.CoreCompileInputs.cache
+C:\Users\Frede\Desktop\Projects\git\ChessApp\ChessApp\ChessApp\obj\Debug\netcoreapp3.1\ChessApp.dll
+C:\Users\Frede\Desktop\Projects\git\ChessApp\ChessApp\ChessApp\obj\Debug\netcoreapp3.1\ChessApp.pdb
+C:\Users\Frede\Desktop\Projects\git\ChessApp\ChessApp\ChessApp\obj\Debug\netcoreapp3.1\ChessApp.genruntimeconfig.cache

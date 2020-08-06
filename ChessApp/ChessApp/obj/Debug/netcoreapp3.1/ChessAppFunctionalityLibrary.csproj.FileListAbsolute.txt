@@ -1,0 +1,4 @@
+C:\Users\Frede\Desktop\Projects\git\ChessApp\ChessApp\ChessApp\obj\Debug\netcoreapp3.1\ChessAppFunctionalityLibrary.csprojAssemblyReference.cache
+C:\Users\Frede\Desktop\Projects\git\ChessApp\ChessApp\ChessApp\obj\Debug\netcoreapp3.1\ChessAppFunctionalityLibrary.AssemblyInfoInputs.cache
+C:\Users\Frede\Desktop\Projects\git\ChessApp\ChessApp\ChessApp\obj\Debug\netcoreapp3.1\ChessAppFunctionalityLibrary.AssemblyInfo.cs
+C:\Users\Frede\Desktop\Projects\git\ChessApp\ChessApp\ChessApp\obj\Debug\netcoreapp3.1\ChessAppFunctionalityLibrary.csproj.CoreCompileInputs.cache
