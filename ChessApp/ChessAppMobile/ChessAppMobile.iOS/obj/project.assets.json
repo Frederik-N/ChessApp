@@ -146,20 +146,6 @@
           "build/Xamarin.Forms.props": {},
           "build/Xamarin.Forms.targets": {}
         }
-      },
-      "ChessAppMobileLibrary/1.0.0": {
-        "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
-        "dependencies": {
-          "Xamarin.Essentials": "1.3.1",
-          "Xamarin.Forms": "4.5.0.495"
-        },
-        "compile": {
-          "bin/placeholder/ChessAppMobileLibrary.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/ChessAppMobileLibrary.dll": {}
-        }
       }
     },
     "Xamarin.iOS,Version=v1.0/win": {
@@ -306,20 +292,6 @@
         "build": {
           "build/Xamarin.Forms.props": {},
           "build/Xamarin.Forms.targets": {}
-        }
-      },
-      "ChessAppMobileLibrary/1.0.0": {
-        "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
-        "dependencies": {
-          "Xamarin.Essentials": "1.3.1",
-          "Xamarin.Forms": "4.5.0.495"
-        },
-        "compile": {
-          "bin/placeholder/ChessAppMobileLibrary.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/ChessAppMobileLibrary.dll": {}
         }
       }
     },
@@ -468,20 +440,6 @@
           "build/Xamarin.Forms.props": {},
           "build/Xamarin.Forms.targets": {}
         }
-      },
-      "ChessAppMobileLibrary/1.0.0": {
-        "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
-        "dependencies": {
-          "Xamarin.Essentials": "1.3.1",
-          "Xamarin.Forms": "4.5.0.495"
-        },
-        "compile": {
-          "bin/placeholder/ChessAppMobileLibrary.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/ChessAppMobileLibrary.dll": {}
-        }
       }
     },
     "Xamarin.iOS,Version=v1.0/win-x86": {
@@ -628,20 +586,6 @@
         "build": {
           "build/Xamarin.Forms.props": {},
           "build/Xamarin.Forms.targets": {}
-        }
-      },
-      "ChessAppMobileLibrary/1.0.0": {
-        "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
-        "dependencies": {
-          "Xamarin.Essentials": "1.3.1",
-          "Xamarin.Forms": "4.5.0.495"
-        },
-        "compile": {
-          "bin/placeholder/ChessAppMobileLibrary.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/ChessAppMobileLibrary.dll": {}
         }
       }
     }
@@ -1030,39 +974,33 @@
         "xamarin.forms.4.5.0.495.nupkg.sha512",
         "xamarin.forms.nuspec"
       ]
-    },
-    "ChessAppMobileLibrary/1.0.0": {
-      "type": "project",
-      "path": "../ChessAppMobile/ChessAppMobileLibrary.csproj",
-      "msbuildProject": "../ChessAppMobile/ChessAppMobileLibrary.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "Xamarin.iOS,Version=v1.0": [
-      "ChessAppMobileLibrary >= 1.0.0",
       "Xamarin.Essentials >= 1.3.1",
       "Xamarin.Forms >= 4.5.0.495"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Frede\\.nuget\\packages\\": {},
+    "C:\\Users\\frednielsen\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Frede\\Desktop\\Projects\\git\\ChessApp\\ChessApp\\ChessAppMobile\\ChessAppMobile.iOS\\ChessAppMobile.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\frednielsen\\Desktop\\Coding\\git\\ChessApp\\ChessApp\\ChessAppMobile\\ChessAppMobile.iOS\\ChessAppMobile.iOS.csproj",
       "projectName": "ChessAppMobile.iOS",
-      "projectPath": "C:\\Users\\Frede\\Desktop\\Projects\\git\\ChessApp\\ChessApp\\ChessAppMobile\\ChessAppMobile.iOS\\ChessAppMobile.iOS.csproj",
-      "packagesPath": "C:\\Users\\Frede\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Frede\\Desktop\\Projects\\git\\ChessApp\\ChessApp\\ChessAppMobile\\ChessAppMobile.iOS\\obj\\",
+      "projectPath": "C:\\Users\\frednielsen\\Desktop\\Coding\\git\\ChessApp\\ChessApp\\ChessAppMobile\\ChessAppMobile.iOS\\ChessAppMobile.iOS.csproj",
+      "packagesPath": "C:\\Users\\frednielsen\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\frednielsen\\Desktop\\Coding\\git\\ChessApp\\ChessApp\\ChessAppMobile\\ChessAppMobile.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Frede\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\frednielsen\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -1075,11 +1013,7 @@
       },
       "frameworks": {
         "xamarinios10": {
-          "projectReferences": {
-            "C:\\Users\\Frede\\Desktop\\Projects\\git\\ChessApp\\ChessApp\\ChessAppMobile\\ChessAppMobile\\ChessAppMobileLibrary.csproj": {
-              "projectPath": "C:\\Users\\Frede\\Desktop\\Projects\\git\\ChessApp\\ChessApp\\ChessAppMobile\\ChessAppMobile\\ChessAppMobileLibrary.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       }
     },

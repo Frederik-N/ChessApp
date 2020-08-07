@@ -136,10 +136,4 @@
     <PackageReference Include="Xamarin.Essentials" Version="1.3.1" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
-  <ItemGroup>
-    <ProjectReference Include="..\ChessAppMobile\ChessAppMobileLibrary.csproj">
-      <Project>{C33F1C2D-7E68-49FB-BF0F-454A217D9225}</Project>
-      <Name>ChessAppMobileLibrary</Name>
-    </ProjectReference>
-  </ItemGroup>
 </Project>

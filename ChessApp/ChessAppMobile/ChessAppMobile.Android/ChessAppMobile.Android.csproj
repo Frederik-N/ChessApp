@@ -86,11 +86,5 @@
     <AndroidResource Include="Resources\mipmap-xxxhdpi\launcher_foreground.png" />
     <AndroidResource Include="Resources\drawable\xamarin_logo.png" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\ChessAppMobile\ChessAppMobileLibrary.csproj">
-      <Project>{C33F1C2D-7E68-49FB-BF0F-454A217D9225}</Project>
-      <Name>ChessAppMobileLibrary</Name>
-    </ProjectReference>
-  </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
 </Project>
