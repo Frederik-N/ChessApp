@@ -2,32 +2,32 @@
 
 namespace MainLibrary
 {
-    public class Pawn
+    public class Queen
     {
 
-        public const char PAWN_SYMBOL = 'P';
+        public const char QUEEN_SYMBOL = 'Q';
         public const char SPACE = ' ';
-        public static string[,] pawns;
+        public static string[,] queens;
 
-        public Pawn()
+        public Queen()
         {
-            pawns = new string[ChessBoard.DIMENSION, ChessBoard.DIMENSION];
-            initializePawns();
+            queens = new string[ChessBoard.DIMENSION, ChessBoard.DIMENSION];
+            initializeQueens();
         }
 
-        private void initializePawns()
+        private void initializeQueens()
         {
             for (int r = 0; r < ChessBoard.DIMENSION; r++)
             {
                 for (int c = 0; c < ChessBoard.DIMENSION; c++)
                 {
-                    if (r == 1 || r == 6)
+                    if (r == 0 && c == 4 || r == 7 && c == 4)
                     {
-                        pawns[r, c] = PAWN_SYMBOL.ToString();
+                        queens[r, c] = QUEEN_SYMBOL.ToString();
                     }
                     else
                     {
-                        pawns[r, c] = "";
+                        queens[r, c] = "";
                     }
                 }
             }

@@ -2,17 +2,19 @@
 
 namespace MainLibrary
 {
-    public class Move : Pawn
+    public class Move : Pieces
     {
         private int x;
         private int y;
         private int desX;
         private int desY;
+        private readonly string[,] chessBoard;
 
         public bool Exit { get; set; }
 
-        public Move()
+        public Move(string[,] chessBoard)
         {
+            this.chessBoard = chessBoard;
             x = 0;
             y = 0;
             desX = 0;
@@ -25,14 +27,20 @@ namespace MainLibrary
             GetInput();
             if (!Exit)
             {
-                RearrengePawns();
+                RearrengePieces();
             }
         }
 
-        private void RearrengePawns()
+        private void RearrengePieces()
         {
-            pawns[desX, desY] = pawns[x, y];
-            pawns[x, y] = SPACE;
+            // TODO: tjek hvilken type brik der flyttes så der kan flyttes andre end pawns
+            chessBoard[desX, desY] = chessBoard[x, y];
+            chessBoard[x, y] = " ";
+        }
+
+        public string[,] getChessBoard()
+        {
+            return chessBoard;
         }
 
         private bool ValidateInput(bool parsed)

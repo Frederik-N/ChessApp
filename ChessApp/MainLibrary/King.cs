@@ -2,32 +2,32 @@
 
 namespace MainLibrary
 {
-    public class Pawn
+    public class King
     {
 
-        public const char PAWN_SYMBOL = 'P';
+        public const char KING_SYMBOL = 'K';
         public const char SPACE = ' ';
-        public static string[,] pawns;
+        public static string[,] kings;
 
-        public Pawn()
+        public King()
         {
-            pawns = new string[ChessBoard.DIMENSION, ChessBoard.DIMENSION];
-            initializePawns();
+            kings = new string[ChessBoard.DIMENSION, ChessBoard.DIMENSION];
+            initializeKings();
         }
 
-        private void initializePawns()
+        private void initializeKings()
         {
             for (int r = 0; r < ChessBoard.DIMENSION; r++)
             {
                 for (int c = 0; c < ChessBoard.DIMENSION; c++)
                 {
-                    if (r == 1 || r == 6)
+                    if (r == 0 && c == 3 || r == 7 && c == 3)
                     {
-                        pawns[r, c] = PAWN_SYMBOL.ToString();
+                        kings[r, c] = KING_SYMBOL.ToString();
                     }
                     else
                     {
-                        pawns[r, c] = "";
+                        kings[r, c] = "";
                     }
                 }
             }

@@ -12,10 +12,25 @@ namespace MainLibrary
 
         public ChessBoard()
         {
-            move = new Move();
             chessBoard = new string[DIMENSION, DIMENSION];
+            move = new Move(chessBoard);
+            ChessBoardInitialize();
             Rank = "+---";
             File = "| ";
+        }
+
+        private void ChessBoardInitialize()
+        {
+            for (int r = 0; r < DIMENSION; r++)
+            {
+                for (int c = 0; c < DIMENSION; c++) {
+                    chessBoard[r, c] = Pawn.pawns[r,c] + Rook.rooks[r,c] + Bishop.bishops[r,c] + Queen.queens[r,c] + Knight.knights[r,c] + King.kings[r,c];
+                    if(chessBoard[r, c] == String.Empty)
+                    {
+                        chessBoard[r, c] = " ";
+                    }
+                }
+            }
         }
 
         public string Rank { get; set; }
@@ -45,7 +60,7 @@ namespace MainLibrary
                             Console.Write(r + " ");
                         }
                         
-                        Console.Write(File + Pawn.pawns[r,c] + " ");
+                        Console.Write(File + chessBoard[r,c] + " ");
                     }
 
                     Console.Write("|\n");
@@ -57,7 +72,9 @@ namespace MainLibrary
                     Console.Write(Rank);
                 }
                 Console.Write("+\n");
+                
                 move.MakeMove();
+                chessBoard = move.getChessBoard();
             }
         }
     }
