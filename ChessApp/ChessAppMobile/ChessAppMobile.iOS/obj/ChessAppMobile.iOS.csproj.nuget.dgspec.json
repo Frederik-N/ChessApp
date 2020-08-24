@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\frednielsen\\Desktop\\Coding\\git\\ChessApp\\ChessApp\\ChessAppMobile\\ChessAppMobile.iOS\\ChessAppMobile.iOS.csproj": {}
+    "C:\\Users\\Frede\\Desktop\\Projects\\git\\ChessApp\\ChessApp\\ChessAppMobile\\ChessAppMobile.iOS\\ChessAppMobile.iOS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\frednielsen\\Desktop\\Coding\\git\\ChessApp\\ChessApp\\ChessAppMobile\\ChessAppMobile.iOS\\ChessAppMobile.iOS.csproj": {
+    "C:\\Users\\Frede\\Desktop\\Projects\\git\\ChessApp\\ChessApp\\ChessAppMobile\\ChessAppMobile.iOS\\ChessAppMobile.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\frednielsen\\Desktop\\Coding\\git\\ChessApp\\ChessApp\\ChessAppMobile\\ChessAppMobile.iOS\\ChessAppMobile.iOS.csproj",
+        "projectUniqueName": "C:\\Users\\Frede\\Desktop\\Projects\\git\\ChessApp\\ChessApp\\ChessAppMobile\\ChessAppMobile.iOS\\ChessAppMobile.iOS.csproj",
         "projectName": "ChessAppMobile.iOS",
-        "projectPath": "C:\\Users\\frednielsen\\Desktop\\Coding\\git\\ChessApp\\ChessApp\\ChessAppMobile\\ChessAppMobile.iOS\\ChessAppMobile.iOS.csproj",
-        "packagesPath": "C:\\Users\\frednielsen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\frednielsen\\Desktop\\Coding\\git\\ChessApp\\ChessApp\\ChessAppMobile\\ChessAppMobile.iOS\\obj\\",
+        "projectPath": "C:\\Users\\Frede\\Desktop\\Projects\\git\\ChessApp\\ChessApp\\ChessAppMobile\\ChessAppMobile.iOS\\ChessAppMobile.iOS.csproj",
+        "packagesPath": "C:\\Users\\Frede\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Frede\\Desktop\\Projects\\git\\ChessApp\\ChessApp\\ChessAppMobile\\ChessAppMobile.iOS\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\frednielsen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Frede\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],

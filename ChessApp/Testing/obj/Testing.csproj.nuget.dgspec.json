@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\frednielsen\\Desktop\\Coding\\git\\ChessApp\\ChessApp\\Testing\\Testing.csproj": {}
+    "C:\\Users\\Frede\\Desktop\\Projects\\git\\ChessApp\\ChessApp\\Testing\\Testing.csproj": {}
   },
   "projects": {
-    "C:\\Users\\frednielsen\\Desktop\\Coding\\git\\ChessApp\\ChessApp\\MainLibrary\\MainLibrary.csproj": {
+    "C:\\Users\\Frede\\Desktop\\Projects\\git\\ChessApp\\ChessApp\\MainLibrary\\MainLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\frednielsen\\Desktop\\Coding\\git\\ChessApp\\ChessApp\\MainLibrary\\MainLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\Frede\\Desktop\\Projects\\git\\ChessApp\\ChessApp\\MainLibrary\\MainLibrary.csproj",
         "projectName": "MainLibrary",
-        "projectPath": "C:\\Users\\frednielsen\\Desktop\\Coding\\git\\ChessApp\\ChessApp\\MainLibrary\\MainLibrary.csproj",
-        "packagesPath": "C:\\Users\\frednielsen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\frednielsen\\Desktop\\Coding\\git\\ChessApp\\ChessApp\\MainLibrary\\obj\\",
+        "projectPath": "C:\\Users\\Frede\\Desktop\\Projects\\git\\ChessApp\\ChessApp\\MainLibrary\\MainLibrary.csproj",
+        "packagesPath": "C:\\Users\\Frede\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Frede\\Desktop\\Projects\\git\\ChessApp\\ChessApp\\MainLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\frednielsen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Frede\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -59,24 +59,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\frednielsen\\Desktop\\Coding\\git\\ChessApp\\ChessApp\\Testing\\Testing.csproj": {
+    "C:\\Users\\Frede\\Desktop\\Projects\\git\\ChessApp\\ChessApp\\Testing\\Testing.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\frednielsen\\Desktop\\Coding\\git\\ChessApp\\ChessApp\\Testing\\Testing.csproj",
+        "projectUniqueName": "C:\\Users\\Frede\\Desktop\\Projects\\git\\ChessApp\\ChessApp\\Testing\\Testing.csproj",
         "projectName": "Testing",
-        "projectPath": "C:\\Users\\frednielsen\\Desktop\\Coding\\git\\ChessApp\\ChessApp\\Testing\\Testing.csproj",
-        "packagesPath": "C:\\Users\\frednielsen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\frednielsen\\Desktop\\Coding\\git\\ChessApp\\ChessApp\\Testing\\obj\\",
+        "projectPath": "C:\\Users\\Frede\\Desktop\\Projects\\git\\ChessApp\\ChessApp\\Testing\\Testing.csproj",
+        "packagesPath": "C:\\Users\\Frede\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Frede\\Desktop\\Projects\\git\\ChessApp\\ChessApp\\Testing\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\frednielsen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Frede\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -90,8 +90,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\frednielsen\\Desktop\\Coding\\git\\ChessApp\\ChessApp\\MainLibrary\\MainLibrary.csproj": {
-                "projectPath": "C:\\Users\\frednielsen\\Desktop\\Coding\\git\\ChessApp\\ChessApp\\MainLibrary\\MainLibrary.csproj"
+              "C:\\Users\\Frede\\Desktop\\Projects\\git\\ChessApp\\ChessApp\\MainLibrary\\MainLibrary.csproj": {
+                "projectPath": "C:\\Users\\Frede\\Desktop\\Projects\\git\\ChessApp\\ChessApp\\MainLibrary\\MainLibrary.csproj"
               }
             }
           }
@@ -133,7 +133,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "1mp8XfN0sbPewTuFhZ5QfVVt2xLwk/JS7UapkjPhTXIriYLWIshTeftD2tMPQ6l8OQX/CoKRN18QPeD9tlUk3A==",
+  "dgSpecHash": "Hag1+SfxpSZ5fkvaXr8pwiCBtrmkdtABuBjq/OsgdiY1XZZrrv18DGs49ZI+PfPlKJXMxZgE+3A+jqD1SkkHWg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\frednielsen\\Desktop\\Coding\\git\\ChessApp\\ChessApp\\ChessAppMobile\\ChessAppMobile.iOS\\ChessAppMobile.iOS.csproj",
+  "projectFilePath": "C:\\Users\\Frede\\Desktop\\Projects\\git\\ChessApp\\ChessApp\\ChessAppMobile\\ChessAppMobile.iOS\\ChessAppMobile.iOS.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\frednielsen\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
-    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
-    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.5.0.495\\xamarin.forms.4.5.0.495.nupkg.sha512"
+    "C:\\Users\\Frede\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Frede\\.nuget\\packages\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Users\\Frede\\.nuget\\packages\\xamarin.forms\\4.5.0.495\\xamarin.forms.4.5.0.495.nupkg.sha512"
   ],
   "logs": []
 }

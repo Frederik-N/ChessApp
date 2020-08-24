@@ -96,3 +96,9 @@ C:\Users\frednielsen\Desktop\Coding\git\ChessApp\ChessApp\Testing\obj\Debug\netc
 C:\Users\frednielsen\Desktop\Coding\git\ChessApp\ChessApp\Testing\obj\Debug\netcoreapp3.1\Testing.dll
 C:\Users\frednielsen\Desktop\Coding\git\ChessApp\ChessApp\Testing\obj\Debug\netcoreapp3.1\Testing.pdb
 C:\Users\frednielsen\Desktop\Coding\git\ChessApp\ChessApp\Testing\obj\Debug\netcoreapp3.1\Testing.genruntimeconfig.cache
+C:\Users\Frede\Desktop\Projects\git\ChessApp\ChessApp\Testing\obj\Debug\netcoreapp3.1\Testing.csprojAssemblyReference.cache
+C:\Users\Frede\Desktop\Projects\git\ChessApp\ChessApp\Testing\obj\Debug\netcoreapp3.1\Testing.AssemblyInfoInputs.cache
+C:\Users\Frede\Desktop\Projects\git\ChessApp\ChessApp\Testing\obj\Debug\netcoreapp3.1\Testing.AssemblyInfo.cs
+C:\Users\Frede\Desktop\Projects\git\ChessApp\ChessApp\Testing\obj\Debug\netcoreapp3.1\Testing.csproj.CoreCompileInputs.cache
+C:\Users\Frede\Desktop\Projects\git\ChessApp\ChessApp\Testing\obj\Debug\netcoreapp3.1\Testing.dll
+C:\Users\Frede\Desktop\Projects\git\ChessApp\ChessApp\Testing\obj\Debug\netcoreapp3.1\Testing.pdb

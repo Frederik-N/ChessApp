@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "VRoZjTdFFuT7M7zp8yPveUFR/2vRBzB2q2l48xftvwgZERGjE/gRG2CttK/HzWOyTE7/JUKet5RY2OWGo6Cepg==",
+  "dgSpecHash": "AepB0YY34Y/9eXl98TN+q9RGIdL2dubWT+JTfud3SJJyNrEMhG5WKVqtlJePpYuO6OOasWtvIP7Gupuk7B+tvQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\frednielsen\\Desktop\\Coding\\git\\ChessApp\\ChessApp\\MainLibrary\\MainLibrary.csproj",
+  "projectFilePath": "C:\\Users\\Frede\\Desktop\\Projects\\git\\ChessApp\\ChessApp\\MainLibrary\\MainLibrary.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\frednielsen\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\frednielsen\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\Frede\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Frede\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }

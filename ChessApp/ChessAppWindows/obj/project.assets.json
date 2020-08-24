@@ -8,23 +8,23 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\frednielsen\\.nuget\\packages\\": {},
+    "C:\\Users\\Frede\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\frednielsen\\Desktop\\Coding\\git\\ChessApp\\ChessApp\\ChessAppWindows\\ChessAppWindows.csproj",
+      "projectUniqueName": "C:\\Users\\Frede\\Desktop\\Projects\\git\\ChessApp\\ChessApp\\ChessAppWindows\\ChessAppWindows.csproj",
       "projectName": "ChessAppWindows",
-      "projectPath": "C:\\Users\\frednielsen\\Desktop\\Coding\\git\\ChessApp\\ChessApp\\ChessAppWindows\\ChessAppWindows.csproj",
-      "packagesPath": "C:\\Users\\frednielsen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\frednielsen\\Desktop\\Coding\\git\\ChessApp\\ChessApp\\ChessAppWindows\\obj\\",
+      "projectPath": "C:\\Users\\Frede\\Desktop\\Projects\\git\\ChessApp\\ChessApp\\ChessAppWindows\\ChessAppWindows.csproj",
+      "packagesPath": "C:\\Users\\Frede\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Frede\\Desktop\\Projects\\git\\ChessApp\\ChessApp\\ChessAppWindows\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\frednielsen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Frede\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -66,7 +66,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

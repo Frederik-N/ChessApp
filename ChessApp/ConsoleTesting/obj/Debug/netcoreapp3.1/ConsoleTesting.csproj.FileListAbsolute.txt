@@ -1,0 +1,16 @@
+C:\Users\Frede\Desktop\Projects\git\ChessApp\ChessApp\ConsoleTesting\bin\Debug\netcoreapp3.1\ConsoleTesting.exe
+C:\Users\Frede\Desktop\Projects\git\ChessApp\ChessApp\ConsoleTesting\bin\Debug\netcoreapp3.1\ConsoleTesting.deps.json
+C:\Users\Frede\Desktop\Projects\git\ChessApp\ChessApp\ConsoleTesting\bin\Debug\netcoreapp3.1\ConsoleTesting.runtimeconfig.json
+C:\Users\Frede\Desktop\Projects\git\ChessApp\ChessApp\ConsoleTesting\bin\Debug\netcoreapp3.1\ConsoleTesting.runtimeconfig.dev.json
+C:\Users\Frede\Desktop\Projects\git\ChessApp\ChessApp\ConsoleTesting\bin\Debug\netcoreapp3.1\ConsoleTesting.dll
+C:\Users\Frede\Desktop\Projects\git\ChessApp\ChessApp\ConsoleTesting\bin\Debug\netcoreapp3.1\ConsoleTesting.pdb
+C:\Users\Frede\Desktop\Projects\git\ChessApp\ChessApp\ConsoleTesting\bin\Debug\netcoreapp3.1\MainLibrary.dll
+C:\Users\Frede\Desktop\Projects\git\ChessApp\ChessApp\ConsoleTesting\bin\Debug\netcoreapp3.1\MainLibrary.pdb
+C:\Users\Frede\Desktop\Projects\git\ChessApp\ChessApp\ConsoleTesting\obj\Debug\netcoreapp3.1\ConsoleTesting.csprojAssemblyReference.cache
+C:\Users\Frede\Desktop\Projects\git\ChessApp\ChessApp\ConsoleTesting\obj\Debug\netcoreapp3.1\ConsoleTesting.AssemblyInfoInputs.cache
+C:\Users\Frede\Desktop\Projects\git\ChessApp\ChessApp\ConsoleTesting\obj\Debug\netcoreapp3.1\ConsoleTesting.AssemblyInfo.cs
+C:\Users\Frede\Desktop\Projects\git\ChessApp\ChessApp\ConsoleTesting\obj\Debug\netcoreapp3.1\ConsoleTesting.csproj.CoreCompileInputs.cache
+C:\Users\Frede\Desktop\Projects\git\ChessApp\ChessApp\ConsoleTesting\obj\Debug\netcoreapp3.1\ConsoleTesting.csproj.CopyComplete
+C:\Users\Frede\Desktop\Projects\git\ChessApp\ChessApp\ConsoleTesting\obj\Debug\netcoreapp3.1\ConsoleTesting.dll
+C:\Users\Frede\Desktop\Projects\git\ChessApp\ChessApp\ConsoleTesting\obj\Debug\netcoreapp3.1\ConsoleTesting.pdb
+C:\Users\Frede\Desktop\Projects\git\ChessApp\ChessApp\ConsoleTesting\obj\Debug\netcoreapp3.1\ConsoleTesting.genruntimeconfig.cache

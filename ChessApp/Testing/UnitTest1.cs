@@ -14,15 +14,15 @@ namespace Testing
         [Test]
         public void TestGameBoard()
         {
-            Game game = new Game(new Board());
+            Game game = new Game(new BoardNotation());
 
-            Assert.IsTrue(game.GetBoard().GetType() == typeof(Board));
+            Assert.IsTrue(game.GetBoard().GetType() == typeof(BoardNotation));
         }
 
         [Test]
         public void TestMakeBoard()
         {
-            Board board = new Board();
+            BoardNotation board = new BoardNotation();
 
             Assert.IsTrue(board.GetCoordinates().GetType() == typeof(String[,]));
 
